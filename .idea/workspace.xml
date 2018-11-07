@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad9a4756-67e7-41eb-949a-44c9e3d595bd" name="Default Changelist" comment="">
+<<<<<<< HEAD
+      <change beforePath="$PROJECT_DIR$/db/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/db/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/20181107071338_meds.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20181107071338_meds.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/20181107071352_update_member.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20181107071352_update_member.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/migrate/20181107071407_update_member_add.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20181107071407_update_member_add.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/db/migrate/20181010044106_member.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/migrate/20181010044106_member.rb" afterDir="false" />
+>>>>>>> master
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Schema_Manager@20181003152040_member.rcov" NAME="20181003152040_member Coverage Results" MODIFIED="1538584278973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/db/migrate" MODULE_NAME="Schema-Manager" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-12716456">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="rake" value="1" />
+          <entry key="rb" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ruby" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="rb" value="809" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ruby" value="809" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.actions.runAnything" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="-252490279">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="rb" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ruby" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="rb" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ruby" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-31900289">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="rb" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Ruby" value="88" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="rb" value="388" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Ruby" value="388" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.actions.runAnything" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+    <session id="1338861849">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="rb" value="32" />
+=======
+          <entry key="rb" value="29" />
+>>>>>>> master
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+<<<<<<< HEAD
+          <entry key="Ruby" value="32" />
+=======
+          <entry key="Ruby" value="29" />
+>>>>>>> master
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="rb" value="501" />
+=======
+          <entry key="rb" value="152" />
+>>>>>>> master
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+<<<<<<< HEAD
+          <entry key="Ruby" value="501" />
+=======
+          <entry key="Ruby" value="152" />
+>>>>>>> master
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.actions.runAnything" />
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010065210_empi_change.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181107071322_add_column_member.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181107071338_meds.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181107071352_update_member.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010044106_member.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+>>>>>>> master
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181107071407_update_member_add.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010062514_allergy.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+<<<<<<< HEAD
+              <caret line="2" column="864" selection-start-line="2" selection-start-column="864" selection-end-line="2" selection-end-column="864" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010050942_provider_org_hierarchy.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+=======
+>>>>>>> master
+              <caret line="2" column="1281" selection-start-line="2" selection-start-column="1281" selection-end-line="2" selection-end-column="1281" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010064709_assessment.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="539" selection-start-line="2" selection-start-column="537" selection-end-line="2" selection-end-column="539" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010064756_assessment_question.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="45" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/migrate/20181010064957_problem.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>line_clai</find>
+      <find>deci</find>
+      <find>pract</find>
+      <find>decimal</find>
+      <find>npi</find>
+      <find>tax</find>
+      <find>disp</find>
+      <find>app</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db/migrate/20181003152040_member.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/member_add.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/member_altid.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181008164639_member.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181008165012_member_add.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010041543_member.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010043446_member.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010045311_member_add.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010045459_member_altid.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010045728_member_contact.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010045856_member_email.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010050115_member_lang.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010050254_attribution.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010063529_insurance.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010064501_empi.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010064610_family_circle.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010065210_empi_change.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010064709_assessment.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010064756_assessment_question.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181019072133_memberupdate.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010050942_provider_org_hierarchy.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010052751_claim_header.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010053317_claim_line.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010053520_pharmacy_claim.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010053736_encounter.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010054128_procedure.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010055525_lab_result.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010055617_prescription.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010061755_vital.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010061927_diagnosis.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010062301_family_history.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010062050_social_history.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010062514_allergy.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010062704_immunization.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010063052_note.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010063203_medical_equipment.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010063420_attachment.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010063634_appointment.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181010064957_problem.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181029021034_groups.rb" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/db/migrate/20181107071322_add_column_member.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181107071338_meds.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181107071352_update_member.rb" />
+        <option value="$PROJECT_DIR$/db/migrate/20181107071407_update_member_add.rb" />
+=======
+        <option value="$PROJECT_DIR$/db/migrate/20181010044106_member.rb" />
+>>>>>>> master
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Testing--database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testing--database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Testing--database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testing--database" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Testing--database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Testing--database" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="migrate" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="20181003152040_member" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Schema-Manager" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/db/migrate" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/db/migrate/20181003152040_member.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.20181003152040_member" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad9a4756-67e7-41eb-949a-44c9e3d595bd" name="Default Changelist" comment="" />
+      <created>1538580755681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538580755681</updated>
+      <workItem from="1538580757082" duration="7638000" />
+      <workItem from="1539017224923" duration="227000" />
+      <workItem from="1539144972524" duration="6156000" />
+      <workItem from="1539420481249" duration="439000" />
+      <workItem from="1539601856124" duration="573000" />
+      <workItem from="1539607804185" duration="1728000" />
+      <workItem from="1539678971012" duration="1142000" />
+      <workItem from="1539828876606" duration="502000" />
+      <workItem from="1539933606469" duration="772000" />
+      <workItem from="1540778805335" duration="2381000" />
+      <workItem from="1541574790469" duration="1483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="23535000" />
+=======
+    <option name="totallyTimeSpent" value="22609000" />
+>>>>>>> master
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32832617" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" visible="true" weight="0.29312426" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.3293124" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bin/rake">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181003152040_member.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/member_add.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/member_altid.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181008164639_member.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181008165012_member_add.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010041543_member.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010043446_member.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010045311_member_add.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="761" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="761" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010045459_member_altid.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="525" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="525" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010045856_member_email.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="567" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="567" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010050115_member_lang.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="548" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="548" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010050254_attribution.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1233" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="1233" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010044106_member.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> master
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181019072133_memberupdate.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010052751_claim_header.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1865" selection-start-line="2" selection-start-column="1865" selection-end-line="2" selection-end-column="1865" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010053317_claim_line.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1164" selection-start-line="2" selection-start-column="1164" selection-end-line="2" selection-end-column="1164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010053520_pharmacy_claim.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1294" selection-start-line="2" selection-start-column="1294" selection-end-line="2" selection-end-column="1294" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010053736_encounter.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1026" selection-start-line="2" selection-start-column="1026" selection-end-line="2" selection-end-column="1026" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010054128_procedure.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="985" selection-start-line="2" selection-start-column="985" selection-end-line="2" selection-end-column="985" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010055525_lab_result.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1135" selection-start-line="2" selection-start-column="1135" selection-end-line="2" selection-end-column="1135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010055617_prescription.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1114" selection-start-line="2" selection-start-column="1114" selection-end-line="2" selection-end-column="1114" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010061755_vital.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="908" selection-start-line="2" selection-start-column="908" selection-end-line="2" selection-end-column="908" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010061927_diagnosis.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="827" selection-start-line="2" selection-start-column="827" selection-end-line="2" selection-end-column="827" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010062301_family_history.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="842" selection-start-line="2" selection-start-column="842" selection-end-line="2" selection-end-column="842" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010062050_social_history.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="884" selection-start-line="2" selection-start-column="884" selection-end-line="2" selection-end-column="884" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010062704_immunization.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="925" selection-start-line="2" selection-start-column="925" selection-end-line="2" selection-end-column="925" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010063052_note.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="612" selection-start-line="2" selection-start-column="612" selection-end-line="2" selection-end-column="612" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010063203_medical_equipment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="763" selection-start-line="2" selection-start-column="763" selection-end-line="2" selection-end-column="763" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010063420_attachment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="799" selection-start-line="2" selection-start-column="799" selection-end-line="2" selection-end-column="799" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010063529_insurance.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="838" selection-start-line="2" selection-start-column="836" selection-end-line="2" selection-end-column="838" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010063634_appointment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="968" selection-start-line="2" selection-start-column="968" selection-end-line="2" selection-end-column="968" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010064610_family_circle.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="163" selection-start-line="2" selection-start-column="161" selection-end-line="2" selection-end-column="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181029021034_groups.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181006082542_l2_schema_setup.rb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010045728_member_contact.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="582" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="582" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010064501_empi.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="214" selection-start-line="2" selection-start-column="211" selection-end-line="2" selection-end-column="214" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010062514_allergy.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="864" selection-start-line="2" selection-start-column="864" selection-end-line="2" selection-end-column="864" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010050942_provider_org_hierarchy.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1281" selection-start-line="2" selection-start-column="1281" selection-end-line="2" selection-end-column="1281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010064709_assessment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="539" selection-start-line="2" selection-start-column="537" selection-end-line="2" selection-end-column="539" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010064756_assessment_question.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010065210_empi_change.rb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010064957_problem.rb">
+      <provider selected="true" editor-type-id="text-editor">
+=======
+>>>>>>> master
+        <state relative-caret-position="90">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181107071322_add_column_member.rb">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181107071338_meds.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181107071352_update_member.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="68" selection-start-line="11" selection-start-column="68" selection-end-line="11" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181107071407_update_member_add.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+=======
+        <state relative-caret-position="30">
+          <caret line="2" column="1281" selection-start-line="2" selection-start-column="1281" selection-end-line="2" selection-end-column="1281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181029021034_groups.rb" />
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010065210_empi_change.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/migrate/20181010044106_member.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+>>>>>>> master
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
