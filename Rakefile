@@ -14,9 +14,9 @@ namespace :environment do
     welcome_msg
     database_config if Ask.confirm ColorizedString[" Would you like to configure the settings? "].colorize(:yellow), default: true
     continue = Ask.confirm ColorizedString[" Would you like to continue to create databases? "].colorize(:yellow), default: true
-    databases = Ask.checkbox ColorizedString[" Please select the database type"].colorize(:yellow), ["redshift","greenplum"], default: [false, false]
-      Rake::Task["db:setup_redshift"].execute(environments) if environments.to_a.any? {|value| value == true }  # rescue puts "sddsds"
-      terminal_msg
+    ##databases = Ask.checkbox ColorizedString[" Please select the database type"].colorize(:yellow), ["redshift","greenplum"], default: [false, false]
+     ## Rake::Task["db:setup_redshift"].execute(environments) if environments.to_a.any? {|value| value == true }  # rescue puts "sddsds"
+     ## terminal_msg
     environments = Ask.checkbox ColorizedString[" Please select the list of environments"].colorize(:yellow), ["Staging", "Production"], default: [true, true] if continue
 
     Rake::Task["db:setup_redshift"].execute(environments) if environments.to_a.any? {|value| value == true }  # rescue puts "sddsds"
