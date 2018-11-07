@@ -3,7 +3,7 @@ staging:
   adapter: redshift
   host: localhost
   port: 5439
-  database: orlando_staging
+  database: duupage_staging
   username: admin
   password: Innocycle123
   encoding: utf8
@@ -13,7 +13,7 @@ production:
   adapter: redshift
   host: localhost
   port: 5439
-  database: orlando_production
+  database: duupage_production
   username: admin
   password: Innocycle123
   encoding: utf8
@@ -23,7 +23,7 @@ system:
   adapter: redshift
   host: localhost
   port: 5439
-  database: orlando_staging
+  database: psw_staging
   username: admin
   password: Innocycle123
   encoding: utf8
